@@ -1,5 +1,5 @@
-# atendimentoBanco
-Sistema na linguagem C de controle de atendimento presencial de clientes.
+# Atendimento Banco
+Sistema na linguagem C de controle de atendimento presencial de clientes para Bancos
 
 Funcionalidades do sistema:
 - Cadastrar nome, CPF e qual setor de atendimento que deseja ser atendido
